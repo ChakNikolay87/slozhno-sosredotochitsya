@@ -299,6 +299,7 @@ h4.title-decor {
         max-inline-size: 491px;
     }
 
+
     .section_articles:nth-of-type(odd) {
         gap: 0 10px;
     }
