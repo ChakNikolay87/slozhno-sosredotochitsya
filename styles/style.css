@@ -284,10 +284,19 @@ h4.title-decor {
     .decorated-zone {
         align-content: normal;
     }
-    
+
+    .header__theme-menu {
+        justify-self: center;
+        padding-inline-start: 20px;
+    }
 
     .header__theme-menu-list {
         flex-direction: row;
+    }
+
+    .header__description {
+        justify-self: end;
+        max-inline-size: 491px;
     }
 
 
